@@ -6,7 +6,7 @@ Convert hand written mathematical expressions and formula to latext.
 
 1. Make sure you have Python > 3 installed
 2. Clone or download this project
-3. Visit this (https://www.kaggle.com/xainano/handwrittenmathsymbols) link to download the Train Dataset
+3. Visit this (https://drive.google.com/drive/folders/13TPIwQY8Yb-zJAQ1c6yEieDKuWvjRqV2?usp=sharing) link to download the Train Dataset
 4. Extract the contents of the downloaded file in step 4 and place in a folder named ``Dataset``
 5. Type and run ``pip install requirements.txt`` in your terminal/command prompt or shell
 6. Run ``python main.py TestData/test1.jpg`` to recognize the image in the test data folder
